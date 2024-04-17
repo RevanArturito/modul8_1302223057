@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\jurnal 8\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\jurnal 8\\consoleapp1\\consoleapp1\\banktransferconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\banktransferconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\jurnal 8\\consoleapp1\\consoleapp1\\uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\jurnal 8\\consoleapp1\\consoleapp1\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\jurnal 8\\consoleapp1\\consoleapp1\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\jurnal 8\\consoleapp1\\consoleapp1\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACBDEA3-E96C-4ED9-AC55-B7BA70D90E11}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTransferConfig.json",
+              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\JURNAL 8\\ConsoleApp1\\ConsoleApp1\\BankTransferConfig.json",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BankTransferConfig.json",
+              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\JURNAL 8\\ConsoleApp1\\ConsoleApp1\\BankTransferConfig.json",
+              "RelativeToolTip": "ConsoleApp1\\BankTransferConfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T00:47:36.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Confirmation.cs",
+              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\JURNAL 8\\ConsoleApp1\\ConsoleApp1\\Confirmation.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Confirmation.cs",
+              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\JURNAL 8\\ConsoleApp1\\ConsoleApp1\\Confirmation.cs",
+              "RelativeToolTip": "ConsoleApp1\\Confirmation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:18:25.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\JURNAL 8\\ConsoleApp1\\ConsoleApp1\\Transfer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Transfer.cs",
+              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\JURNAL 8\\ConsoleApp1\\ConsoleApp1\\Transfer.cs",
+              "RelativeToolTip": "ConsoleApp1\\Transfer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:17:43.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\JURNAL 8\\ConsoleApp1\\ConsoleApp1\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BankTransferConfig.cs",
+              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\JURNAL 8\\ConsoleApp1\\ConsoleApp1\\BankTransferConfig.cs",
+              "RelativeToolTip": "ConsoleApp1\\BankTransferConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:50:40.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UiConfig.cs",
+              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\JURNAL 8\\ConsoleApp1\\ConsoleApp1\\UiConfig.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\UiConfig.cs",
+              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\JURNAL 8\\ConsoleApp1\\ConsoleApp1\\UiConfig.cs",
+              "RelativeToolTip": "ConsoleApp1\\UiConfig.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:57:00.817Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +109,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\JURNAL 8\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T23:42:28.853Z",
               "EditorCaption": ""
